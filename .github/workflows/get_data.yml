@@ -3,8 +3,7 @@ name: get-data
 on:
   schedule:
     - cron: '*/15 * * * *'
-
-
+    
 jobs:
   run:
     name: Update occupancy
