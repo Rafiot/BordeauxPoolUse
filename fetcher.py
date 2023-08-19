@@ -23,7 +23,7 @@ class BordeauxPoolUse():
         data = self.fetch()
         for entry in data['records']:
             fields = entry['fields']
-            pool_dir = self.root_storage / fields['etablissement_etalib']
+            pool_dir = self.root_storage / fields['etablissement_etalib'] / fields['fmizonlib']
             update_timestamp = datetime.fromisoformat(fields['datemiseajour'])
             store_dir = pool_dir / str(update_timestamp.year) / f'{update_timestamp.month:02}'
             store_dir.mkdir(parents=True, exist_ok=True)
@@ -35,6 +35,14 @@ class BordeauxPoolUse():
                 day_content = {}
             if update_timestamp.isoformat() in day_content:
                 continue
+
+            # Dirty check so we only add an entry if the data changed
+            if updates := sorted(day_content.keys()):
+                last_update = updates[-1]
+                last_data = day_content[last_update]
+                if ({v for k, v in last_data.items() if k != 'datemiseajour'} == {v for k, v in fields.items() if k != 'datemiseajour'}):
+                    continue
+
             day_content[update_timestamp.isoformat()] = fields
             with day_file.open('w') as _fw:
-                json.dump(day_content, _fw)
+                json.dump(day_content, _fw, indent=2)
