@@ -22,7 +22,9 @@ jobs:
           cache: 'poetry'
 
       - name: Install dependencies
-        run: poetry install
+        run: |
+          pip install poetry
+          poetry install
 
       - name: Fetch and process response
         run: poetry run python get_occupancy.py
