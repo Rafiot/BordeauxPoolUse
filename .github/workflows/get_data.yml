@@ -1,0 +1,33 @@
+name: get-data
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+
+
+jobs:
+  run:
+    name: Update occupancy
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+	  - name: Set up Python 3.11
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+          cache: 'poetry'
+
+      - name: Install dependencies
+        run: poetry install
+
+      - name: Fetch and process response
+        run: poetry run python get_occupancy.py
+
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v9
+        with:
+		  default_author: github_actor
+          message: 'Update occupancy'
+          add: 'data'

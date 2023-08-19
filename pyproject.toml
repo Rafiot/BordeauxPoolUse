@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "bordeauxpooluse"
+version = "0.1.0"
+description = ""
+authors = ["Raphaël Vinot <github_rafiot@rafi0t.fr>"]
+license = "BSD-2-Clause"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+requests = "^2.31.0"
+
+
+[tool.poetry.group.dev.dependencies]
+ipython = "^8.14.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
