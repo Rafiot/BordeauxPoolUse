@@ -58,6 +58,8 @@ class BordeauxPoolUse():
             occupancy = []
             record_time = []
             for jsonfile in sorted(list(monthly_dir.iterdir())):
+                if jsonfile.suffix != '.json':
+                    continue
                 with jsonfile.open() as f:
                     day_content = json.load(f)
                 for entry in day_content.values():
