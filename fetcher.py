@@ -68,6 +68,7 @@ class BordeauxPoolUse():
                         record_time.append(datetime.fromisoformat(entry['datemiseajour']).astimezone())
             if occupancy and record_time:
                 fig, ax = plt.subplots()
+                fig.set_figwidth(50)
                 plt.title(str(monthly_dir))
                 plt.plot(record_time, occupancy)
                 locator = AutoDateLocator()
