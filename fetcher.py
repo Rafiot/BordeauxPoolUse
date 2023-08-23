@@ -69,6 +69,7 @@ class BordeauxPoolUse():
             if occupancy and record_time:
                 fig, ax = plt.subplots()
                 fig.set_figwidth(50)
+                fig.set_figheight(30)
                 plt.title(str(monthly_dir))
                 plt.plot(record_time, occupancy)
                 locator = AutoDateLocator()
