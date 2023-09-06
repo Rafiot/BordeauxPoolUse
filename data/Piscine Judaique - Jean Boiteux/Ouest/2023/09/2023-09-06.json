@@ -188,5 +188,15 @@
     "etablissement_etalib": "Piscine Judaique - Jean Boiteux",
     "fmicourante": 119,
     "datemiseajour": "2023-09-06T12:38:00+00:00"
+  },
+  "2023-09-06T13:02:00+00:00": {
+    "fmizonlib": "Ouest",
+    "fmizonnum": 1,
+    "sortie": 454,
+    "fmizonmax": 600,
+    "entree": 604,
+    "etablissement_etalib": "Piscine Judaique - Jean Boiteux",
+    "fmicourante": 150,
+    "datemiseajour": "2023-09-06T13:02:00+00:00"
   }
 }
