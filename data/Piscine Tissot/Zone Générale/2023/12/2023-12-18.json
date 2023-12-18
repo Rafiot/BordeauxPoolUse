@@ -158,5 +158,15 @@
     "etablissement_etalib": "Piscine Tissot",
     "fmicourante": 37,
     "datemiseajour": "2023-12-18T17:05:00+00:00"
+  },
+  "2023-12-18T17:20:00+00:00": {
+    "fmizonlib": "Zone G\u00e9n\u00e9rale",
+    "fmizonnum": 9,
+    "sortie": 103,
+    "fmizonmax": 342,
+    "entree": 135,
+    "etablissement_etalib": "Piscine Tissot",
+    "fmicourante": 32,
+    "datemiseajour": "2023-12-18T17:20:00+00:00"
   }
 }
