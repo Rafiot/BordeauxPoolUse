@@ -248,5 +248,15 @@
     "etablissement_etalib": "Piscine Grand Parc",
     "fmicourante": 64,
     "datemiseajour": "2024-12-02T18:15:00+00:00"
+  },
+  "2024-12-02T18:35:00+00:00": {
+    "fmizonlib": "Zone G\u00e9n\u00e9rale",
+    "fmizonnum": 14,
+    "sortie": 489,
+    "fmizonmax": 400,
+    "entree": 534,
+    "etablissement_etalib": "Piscine Grand Parc",
+    "fmicourante": 45,
+    "datemiseajour": "2024-12-02T18:35:00+00:00"
   }
 }
