@@ -2,7 +2,8 @@
 
 import json
 
-from datetime import datetime
+from collections import defaultdict
+from datetime import datetime, date, timedelta
 from pathlib import Path
 
 import requests
@@ -51,6 +52,35 @@ class BordeauxPoolUse():
             day_content[update_timestamp.isoformat()] = fields
             with day_file.open('w') as _fw:
                 json.dump(day_content, _fw, indent=2)
+
+    def make_last_weeks_data(self):
+        # Max data to load (in days)
+        max_days = 30
+        today = date.today()
+        oldest_day = today - timedelta(days=max_days)
+        # get the first monday after that date
+        while oldest_day.weekday() != 0:  # 0 for monday
+            oldest_day += timedelta(days=1)
+
+        for pool_dir in self.root_storage.iterdir():
+            if not pool_dir.is_dir():
+                continue
+            for zone_dir in pool_dir.iterdir():
+
+                if not zone_dir.is_dir():
+                    continue
+                all_jsons = sorted([json_file for json_file in zone_dir.rglob('*.json') if date.fromisoformat(json_file.stem) > oldest_day], reverse=True)
+                # make weeks lists
+                by_week = defaultdict(dict)
+                for json_file in all_jsons:
+                    week_number = date.fromisoformat(json_file.stem).isocalendar()[1]
+                    with json_file.open() as f:
+                        for dt, data in json.load(f).items():
+                            by_week[week_number].update({dt: data['fmicourante']})
+
+                break
+            break
+        return by_week
 
     def make_graphs(self):
         monthly_dirs = {filename.parent for filename in self.root_storage.rglob('*.json')}
