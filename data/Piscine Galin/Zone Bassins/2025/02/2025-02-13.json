@@ -88,5 +88,15 @@
     "etablissement_etalib": "Piscine Galin",
     "fmicourante": -2,
     "datemiseajour": "2025-02-13T16:50:00+00:00"
+  },
+  "2025-02-13T17:05:00+00:00": {
+    "fmizonlib": "Zone Bassins",
+    "fmizonnum": 12,
+    "sortie": 26,
+    "fmizonmax": 400,
+    "entree": 29,
+    "etablissement_etalib": "Piscine Galin",
+    "fmicourante": 3,
+    "datemiseajour": "2025-02-13T17:05:00+00:00"
   }
 }
