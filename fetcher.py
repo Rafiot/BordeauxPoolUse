@@ -30,7 +30,10 @@ class BordeauxPoolUse():
         for entry in data['records']:
             fields = entry['fields']
             pool_dir = self.root_storage / fields['etablissement_etalib'] / fields['fmizonlib']
-            update_timestamp = datetime.fromisoformat(fields['datemiseajour'])
+            if 'datemiseajour' in fields:
+                update_timestamp = datetime.fromisoformat(fields['datemiseajour'])
+            else:
+                update_timestamp = datetime.fromisoformat(entry['record_timestamp'])
             store_dir = pool_dir / str(update_timestamp.year) / f'{update_timestamp.month:02}'
             store_dir.mkdir(parents=True, exist_ok=True)
             day_file = store_dir / f'{update_timestamp.date().isoformat()}.json'
