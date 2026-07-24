@@ -38,5 +38,15 @@
     "etablissement_etalib": "Piscine Jean ZAY",
     "fmicourante": 8,
     "datemiseajour": "2026-07-24T12:45:00+00:00"
+  },
+  "2026-07-24T14:45:00+00:00": {
+    "fmizonlib": "ZONE GENERALE",
+    "fmizonnum": 24,
+    "sortie": 157,
+    "fmizonmax": 200,
+    "entree": 260,
+    "etablissement_etalib": "Piscine Jean ZAY",
+    "fmicourante": 103,
+    "datemiseajour": "2026-07-24T14:45:00+00:00"
   }
 }
