@@ -11,6 +11,7 @@ package-mode = false
 python = "^3.12"
 requests = "^2.34.2"
 matplotlib = "^3.11.1"
+gitpython = "^3.1.62"
 
 
 [tool.poetry.group.dev.dependencies]
