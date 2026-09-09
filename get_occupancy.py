@@ -6,4 +6,4 @@ bpu = BordeauxPoolUse()
 
 bpu.make_jsons()
 
-bpu.make_graphs()
+# bpu.make_graphs()
