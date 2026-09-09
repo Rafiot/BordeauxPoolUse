@@ -9,6 +9,8 @@ from git import Repo
 
 def update_repo() -> None:
     repo = Repo('./')
+    if not repo.is_dirty():
+        return
     to_add = ['data']
     repo.index.add(to_add)
     repo.index.commit(f"Add data up to {datetime.now()}")
