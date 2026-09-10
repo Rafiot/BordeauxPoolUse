@@ -5,6 +5,7 @@ import json
 from collections import defaultdict
 from datetime import datetime, date, timedelta
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 import requests
 
@@ -52,7 +53,7 @@ class BordeauxPoolUse():
                 if ({v for k, v in last_data.items() if k != 'datemiseajour'} == {v for k, v in fields.items() if k != 'datemiseajour'}):
                     continue
 
-            day_content[update_timestamp.isoformat()] = fields
+            day_content[update_timestamp.astimezone(ZoneInfo('Europe/Paris')).isoformat()] = fields
             with day_file.open('w') as _fw:
                 json.dump(day_content, _fw, indent=2)
 
