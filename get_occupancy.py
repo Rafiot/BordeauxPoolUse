@@ -9,7 +9,8 @@ from git import Repo
 
 def update_repo() -> None:
     repo = Repo('./')
-    if not repo.is_dirty():
+    if not repo.is_dirty(untracked_files=True):
+        print('is clean')
         return
     to_add = ['data']
     repo.index.add(to_add)
