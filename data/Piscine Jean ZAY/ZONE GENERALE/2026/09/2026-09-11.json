@@ -1,0 +1,402 @@
+{
+  "2026-09-11T02:00:00+02:00": {
+    "fmizonlib": "ZONE GENERALE",
+    "fmizonnum": 24,
+    "sortie": 0,
+    "fmizonmax": 200,
+    "entree": 0,
+    "etablissement_etalib": "Piscine Jean ZAY",
+    "fmicourante": 0,
+    "datemiseajour": "2026-09-11T00:00:00+00:00"
+  },
+  "2026-09-11T07:35:00+02:00": {
+    "fmizonlib": "ZONE GENERALE",
+    "fmizonnum": 24,
+    "sortie": 0,
+    "fmizonmax": 200,
+    "entree": 11,
+    "etablissement_etalib": "Piscine Jean ZAY",
+    "fmicourante": 11,
+    "datemiseajour": "2026-09-11T05:35:00+00:00"
+  },
+  "2026-09-11T07:45:00+02:00": {
+    "fmizonlib": "ZONE GENERALE",
+    "fmizonnum": 24,
+    "sortie": 0,
+    "fmizonmax": 200,
+    "entree": 13,
+    "etablissement_etalib": "Piscine Jean ZAY",
+    "fmicourante": 13,
+    "datemiseajour": "2026-09-11T05:45:00+00:00"
+  },
+  "2026-09-11T07:50:00+02:00": {
+    "fmizonlib": "ZONE GENERALE",
+    "fmizonnum": 24,
+    "sortie": 0,
+    "fmizonmax": 200,
+    "entree": 14,
+    "etablissement_etalib": "Piscine Jean ZAY",
+    "fmicourante": 14,
+    "datemiseajour": "2026-09-11T05:50:00+00:00"
+  },
+  "2026-09-11T08:00:00+02:00": {
+    "fmizonlib": "ZONE GENERALE",
+    "fmizonnum": 24,
+    "sortie": 0,
+    "fmizonmax": 200,
+    "entree": 17,
+    "etablissement_etalib": "Piscine Jean ZAY",
+    "fmicourante": 17,
+    "datemiseajour": "2026-09-11T06:00:00+00:00"
+  },
+  "2026-09-11T08:05:00+02:00": {
+    "fmizonlib": "ZONE GENERALE",
+    "fmizonnum": 24,
+    "sortie": 0,
+    "fmizonmax": 200,
+    "entree": 19,
+    "etablissement_etalib": "Piscine Jean ZAY",
+    "fmicourante": 19,
+    "datemiseajour": "2026-09-11T06:05:00+00:00"
+  },
+  "2026-09-11T08:15:00+02:00": {
+    "fmizonlib": "ZONE GENERALE",
+    "fmizonnum": 24,
+    "sortie": 4,
+    "fmizonmax": 200,
+    "entree": 22,
+    "etablissement_etalib": "Piscine Jean ZAY",
+    "fmicourante": 18,
+    "datemiseajour": "2026-09-11T06:15:00+00:00"
+  },
+  "2026-09-11T08:25:00+02:00": {
+    "fmizonlib": "ZONE GENERALE",
+    "fmizonnum": 24,
+    "sortie": 5,
+    "fmizonmax": 200,
+    "entree": 26,
+    "etablissement_etalib": "Piscine Jean ZAY",
+    "fmicourante": 21,
+    "datemiseajour": "2026-09-11T06:25:00+00:00"
+  },
+  "2026-09-11T08:30:00+02:00": {
+    "fmizonlib": "ZONE GENERALE",
+    "fmizonnum": 24,
+    "sortie": 6,
+    "fmizonmax": 200,
+    "entree": 29,
+    "etablissement_etalib": "Piscine Jean ZAY",
+    "fmicourante": 23,
+    "datemiseajour": "2026-09-11T06:30:00+00:00"
+  },
+  "2026-09-11T08:35:00+02:00": {
+    "fmizonlib": "ZONE GENERALE",
+    "fmizonnum": 24,
+    "sortie": 7,
+    "fmizonmax": 200,
+    "entree": 29,
+    "etablissement_etalib": "Piscine Jean ZAY",
+    "fmicourante": 22,
+    "datemiseajour": "2026-09-11T06:35:00+00:00"
+  },
+  "2026-09-11T08:40:00+02:00": {
+    "fmizonlib": "ZONE GENERALE",
+    "fmizonnum": 24,
+    "sortie": 7,
+    "fmizonmax": 200,
+    "entree": 30,
+    "etablissement_etalib": "Piscine Jean ZAY",
+    "fmicourante": 23,
+    "datemiseajour": "2026-09-11T06:40:00+00:00"
+  },
+  "2026-09-11T08:45:00+02:00": {
+    "fmizonlib": "ZONE GENERALE",
+    "fmizonnum": 24,
+    "sortie": 10,
+    "fmizonmax": 200,
+    "entree": 31,
+    "etablissement_etalib": "Piscine Jean ZAY",
+    "fmicourante": 21,
+    "datemiseajour": "2026-09-11T06:45:00+00:00"
+  },
+  "2026-09-11T08:50:00+02:00": {
+    "fmizonlib": "ZONE GENERALE",
+    "fmizonnum": 24,
+    "sortie": 12,
+    "fmizonmax": 200,
+    "entree": 33,
+    "etablissement_etalib": "Piscine Jean ZAY",
+    "fmicourante": 21,
+    "datemiseajour": "2026-09-11T06:50:00+00:00"
+  },
+  "2026-09-11T09:00:00+02:00": {
+    "fmizonlib": "ZONE GENERALE",
+    "fmizonnum": 24,
+    "sortie": 14,
+    "fmizonmax": 200,
+    "entree": 35,
+    "etablissement_etalib": "Piscine Jean ZAY",
+    "fmicourante": 21,
+    "datemiseajour": "2026-09-11T07:00:00+00:00"
+  },
+  "2026-09-11T09:10:00+02:00": {
+    "fmizonlib": "ZONE GENERALE",
+    "fmizonnum": 24,
+    "sortie": 19,
+    "fmizonmax": 200,
+    "entree": 37,
+    "etablissement_etalib": "Piscine Jean ZAY",
+    "fmicourante": 18,
+    "datemiseajour": "2026-09-11T07:10:00+00:00"
+  },
+  "2026-09-11T09:15:00+02:00": {
+    "fmizonlib": "ZONE GENERALE",
+    "fmizonnum": 24,
+    "sortie": 20,
+    "fmizonmax": 200,
+    "entree": 41,
+    "etablissement_etalib": "Piscine Jean ZAY",
+    "fmicourante": 21,
+    "datemiseajour": "2026-09-11T07:15:00+00:00"
+  },
+  "2026-09-11T09:20:00+02:00": {
+    "fmizonlib": "ZONE GENERALE",
+    "fmizonnum": 24,
+    "sortie": 20,
+    "fmizonmax": 200,
+    "entree": 42,
+    "etablissement_etalib": "Piscine Jean ZAY",
+    "fmicourante": 22,
+    "datemiseajour": "2026-09-11T07:20:00+00:00"
+  },
+  "2026-09-11T09:30:00+02:00": {
+    "fmizonlib": "ZONE GENERALE",
+    "fmizonnum": 24,
+    "sortie": 24,
+    "fmizonmax": 200,
+    "entree": 51,
+    "etablissement_etalib": "Piscine Jean ZAY",
+    "fmicourante": 27,
+    "datemiseajour": "2026-09-11T07:30:00+00:00"
+  },
+  "2026-09-11T09:45:00+02:00": {
+    "fmizonlib": "ZONE GENERALE",
+    "fmizonnum": 24,
+    "sortie": 29,
+    "fmizonmax": 200,
+    "entree": 53,
+    "etablissement_etalib": "Piscine Jean ZAY",
+    "fmicourante": 24,
+    "datemiseajour": "2026-09-11T07:45:00+00:00"
+  },
+  "2026-09-11T09:50:00+02:00": {
+    "fmizonlib": "ZONE GENERALE",
+    "fmizonnum": 24,
+    "sortie": 31,
+    "fmizonmax": 200,
+    "entree": 53,
+    "etablissement_etalib": "Piscine Jean ZAY",
+    "fmicourante": 22,
+    "datemiseajour": "2026-09-11T07:50:00+00:00"
+  },
+  "2026-09-11T10:00:00+02:00": {
+    "fmizonlib": "ZONE GENERALE",
+    "fmizonnum": 24,
+    "sortie": 34,
+    "fmizonmax": 200,
+    "entree": 54,
+    "etablissement_etalib": "Piscine Jean ZAY",
+    "fmicourante": 20,
+    "datemiseajour": "2026-09-11T08:00:00+00:00"
+  },
+  "2026-09-11T10:05:00+02:00": {
+    "fmizonlib": "ZONE GENERALE",
+    "fmizonnum": 24,
+    "sortie": 34,
+    "fmizonmax": 200,
+    "entree": 56,
+    "etablissement_etalib": "Piscine Jean ZAY",
+    "fmicourante": 22,
+    "datemiseajour": "2026-09-11T08:05:00+00:00"
+  },
+  "2026-09-11T10:10:00+02:00": {
+    "fmizonlib": "ZONE GENERALE",
+    "fmizonnum": 24,
+    "sortie": 35,
+    "fmizonmax": 200,
+    "entree": 59,
+    "etablissement_etalib": "Piscine Jean ZAY",
+    "fmicourante": 24,
+    "datemiseajour": "2026-09-11T08:10:00+00:00"
+  },
+  "2026-09-11T10:15:00+02:00": {
+    "fmizonlib": "ZONE GENERALE",
+    "fmizonnum": 24,
+    "sortie": 41,
+    "fmizonmax": 200,
+    "entree": 63,
+    "etablissement_etalib": "Piscine Jean ZAY",
+    "fmicourante": 22,
+    "datemiseajour": "2026-09-11T08:15:00+00:00"
+  },
+  "2026-09-11T10:20:00+02:00": {
+    "fmizonlib": "ZONE GENERALE",
+    "fmizonnum": 24,
+    "sortie": 42,
+    "fmizonmax": 200,
+    "entree": 64,
+    "etablissement_etalib": "Piscine Jean ZAY",
+    "fmicourante": 22,
+    "datemiseajour": "2026-09-11T08:20:00+00:00"
+  },
+  "2026-09-11T10:30:00+02:00": {
+    "fmizonlib": "ZONE GENERALE",
+    "fmizonnum": 24,
+    "sortie": 43,
+    "fmizonmax": 200,
+    "entree": 69,
+    "etablissement_etalib": "Piscine Jean ZAY",
+    "fmicourante": 26,
+    "datemiseajour": "2026-09-11T08:30:00+00:00"
+  },
+  "2026-09-11T10:35:00+02:00": {
+    "fmizonlib": "ZONE GENERALE",
+    "fmizonnum": 24,
+    "sortie": 46,
+    "fmizonmax": 200,
+    "entree": 69,
+    "etablissement_etalib": "Piscine Jean ZAY",
+    "fmicourante": 23,
+    "datemiseajour": "2026-09-11T08:35:00+00:00"
+  },
+  "2026-09-11T10:40:00+02:00": {
+    "fmizonlib": "ZONE GENERALE",
+    "fmizonnum": 24,
+    "sortie": 47,
+    "fmizonmax": 200,
+    "entree": 72,
+    "etablissement_etalib": "Piscine Jean ZAY",
+    "fmicourante": 25,
+    "datemiseajour": "2026-09-11T08:40:00+00:00"
+  },
+  "2026-09-11T10:45:00+02:00": {
+    "fmizonlib": "ZONE GENERALE",
+    "fmizonnum": 24,
+    "sortie": 48,
+    "fmizonmax": 200,
+    "entree": 74,
+    "etablissement_etalib": "Piscine Jean ZAY",
+    "fmicourante": 26,
+    "datemiseajour": "2026-09-11T08:45:00+00:00"
+  },
+  "2026-09-11T10:50:00+02:00": {
+    "fmizonlib": "ZONE GENERALE",
+    "fmizonnum": 24,
+    "sortie": 50,
+    "fmizonmax": 200,
+    "entree": 75,
+    "etablissement_etalib": "Piscine Jean ZAY",
+    "fmicourante": 25,
+    "datemiseajour": "2026-09-11T08:50:00+00:00"
+  },
+  "2026-09-11T11:00:00+02:00": {
+    "fmizonlib": "ZONE GENERALE",
+    "fmizonnum": 24,
+    "sortie": 52,
+    "fmizonmax": 200,
+    "entree": 83,
+    "etablissement_etalib": "Piscine Jean ZAY",
+    "fmicourante": 31,
+    "datemiseajour": "2026-09-11T09:00:00+00:00"
+  },
+  "2026-09-11T11:05:00+02:00": {
+    "fmizonlib": "ZONE GENERALE",
+    "fmizonnum": 24,
+    "sortie": 54,
+    "fmizonmax": 200,
+    "entree": 87,
+    "etablissement_etalib": "Piscine Jean ZAY",
+    "fmicourante": 33,
+    "datemiseajour": "2026-09-11T09:05:00+00:00"
+  },
+  "2026-09-11T11:10:00+02:00": {
+    "fmizonlib": "ZONE GENERALE",
+    "fmizonnum": 24,
+    "sortie": 56,
+    "fmizonmax": 200,
+    "entree": 94,
+    "etablissement_etalib": "Piscine Jean ZAY",
+    "fmicourante": 38,
+    "datemiseajour": "2026-09-11T09:10:00+00:00"
+  },
+  "2026-09-11T11:15:00+02:00": {
+    "fmizonlib": "ZONE GENERALE",
+    "fmizonnum": 24,
+    "sortie": 59,
+    "fmizonmax": 200,
+    "entree": 94,
+    "etablissement_etalib": "Piscine Jean ZAY",
+    "fmicourante": 35,
+    "datemiseajour": "2026-09-11T09:15:00+00:00"
+  },
+  "2026-09-11T11:20:00+02:00": {
+    "fmizonlib": "ZONE GENERALE",
+    "fmizonnum": 24,
+    "sortie": 61,
+    "fmizonmax": 200,
+    "entree": 97,
+    "etablissement_etalib": "Piscine Jean ZAY",
+    "fmicourante": 36,
+    "datemiseajour": "2026-09-11T09:20:00+00:00"
+  },
+  "2026-09-11T11:30:00+02:00": {
+    "fmizonlib": "ZONE GENERALE",
+    "fmizonnum": 24,
+    "sortie": 69,
+    "fmizonmax": 200,
+    "entree": 101,
+    "etablissement_etalib": "Piscine Jean ZAY",
+    "fmicourante": 32,
+    "datemiseajour": "2026-09-11T09:30:00+00:00"
+  },
+  "2026-09-11T11:35:00+02:00": {
+    "fmizonlib": "ZONE GENERALE",
+    "fmizonnum": 24,
+    "sortie": 71,
+    "fmizonmax": 200,
+    "entree": 101,
+    "etablissement_etalib": "Piscine Jean ZAY",
+    "fmicourante": 30,
+    "datemiseajour": "2026-09-11T09:35:00+00:00"
+  },
+  "2026-09-11T11:40:00+02:00": {
+    "fmizonlib": "ZONE GENERALE",
+    "fmizonnum": 24,
+    "sortie": 72,
+    "fmizonmax": 200,
+    "entree": 102,
+    "etablissement_etalib": "Piscine Jean ZAY",
+    "fmicourante": 30,
+    "datemiseajour": "2026-09-11T09:40:00+00:00"
+  },
+  "2026-09-11T11:45:00+02:00": {
+    "fmizonlib": "ZONE GENERALE",
+    "fmizonnum": 24,
+    "sortie": 73,
+    "fmizonmax": 200,
+    "entree": 107,
+    "etablissement_etalib": "Piscine Jean ZAY",
+    "fmicourante": 34,
+    "datemiseajour": "2026-09-11T09:45:00+00:00"
+  },
+  "2026-09-11T11:50:00+02:00": {
+    "fmizonlib": "ZONE GENERALE",
+    "fmizonnum": 24,
+    "sortie": 74,
+    "fmizonmax": 200,
+    "entree": 111,
+    "etablissement_etalib": "Piscine Jean ZAY",
+    "fmicourante": 37,
+    "datemiseajour": "2026-09-11T09:50:00+00:00"
+  }
+}

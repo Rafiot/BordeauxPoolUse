@@ -1,0 +1,152 @@
+{
+  "2026-09-11T02:00:00+02:00": {
+    "fmizonlib": "Zone G\u00e9n\u00e9rale",
+    "fmizonnum": 9,
+    "sortie": 0,
+    "fmizonmax": 342,
+    "entree": 0,
+    "etablissement_etalib": "Piscine Tissot",
+    "fmicourante": 0,
+    "datemiseajour": "2026-09-11T00:00:00+00:00"
+  },
+  "2026-09-11T08:05:00+02:00": {
+    "fmizonlib": "Zone G\u00e9n\u00e9rale",
+    "fmizonnum": 9,
+    "sortie": 0,
+    "fmizonmax": 342,
+    "entree": 18,
+    "etablissement_etalib": "Piscine Tissot",
+    "fmicourante": 18,
+    "datemiseajour": "2026-09-11T06:05:00+00:00"
+  },
+  "2026-09-11T08:15:00+02:00": {
+    "fmizonlib": "Zone G\u00e9n\u00e9rale",
+    "fmizonnum": 9,
+    "sortie": 0,
+    "fmizonmax": 342,
+    "entree": 23,
+    "etablissement_etalib": "Piscine Tissot",
+    "fmicourante": 23,
+    "datemiseajour": "2026-09-11T06:15:00+00:00"
+  },
+  "2026-09-11T08:30:00+02:00": {
+    "fmizonlib": "Zone G\u00e9n\u00e9rale",
+    "fmizonnum": 9,
+    "sortie": 0,
+    "fmizonmax": 342,
+    "entree": 24,
+    "etablissement_etalib": "Piscine Tissot",
+    "fmicourante": 24,
+    "datemiseajour": "2026-09-11T06:30:00+00:00"
+  },
+  "2026-09-11T09:10:00+02:00": {
+    "fmizonlib": "Zone G\u00e9n\u00e9rale",
+    "fmizonnum": 9,
+    "sortie": 15,
+    "fmizonmax": 342,
+    "entree": 68,
+    "etablissement_etalib": "Piscine Tissot",
+    "fmicourante": 53,
+    "datemiseajour": "2026-09-11T07:10:00+00:00"
+  },
+  "2026-09-11T09:15:00+02:00": {
+    "fmizonlib": "Zone G\u00e9n\u00e9rale",
+    "fmizonnum": 9,
+    "sortie": 24,
+    "fmizonmax": 342,
+    "entree": 68,
+    "etablissement_etalib": "Piscine Tissot",
+    "fmicourante": 44,
+    "datemiseajour": "2026-09-11T07:15:00+00:00"
+  },
+  "2026-09-11T09:45:00+02:00": {
+    "fmizonlib": "Zone G\u00e9n\u00e9rale",
+    "fmizonnum": 9,
+    "sortie": 24,
+    "fmizonmax": 342,
+    "entree": 120,
+    "etablissement_etalib": "Piscine Tissot",
+    "fmicourante": 96,
+    "datemiseajour": "2026-09-11T07:45:00+00:00"
+  },
+  "2026-09-11T10:00:00+02:00": {
+    "fmizonlib": "Zone G\u00e9n\u00e9rale",
+    "fmizonnum": 9,
+    "sortie": 30,
+    "fmizonmax": 342,
+    "entree": 120,
+    "etablissement_etalib": "Piscine Tissot",
+    "fmicourante": 90,
+    "datemiseajour": "2026-09-11T08:00:00+00:00"
+  },
+  "2026-09-11T10:10:00+02:00": {
+    "fmizonlib": "Zone G\u00e9n\u00e9rale",
+    "fmizonnum": 9,
+    "sortie": 74,
+    "fmizonmax": 342,
+    "entree": 120,
+    "etablissement_etalib": "Piscine Tissot",
+    "fmicourante": 46,
+    "datemiseajour": "2026-09-11T08:10:00+00:00"
+  },
+  "2026-09-11T10:50:00+02:00": {
+    "fmizonlib": "Zone G\u00e9n\u00e9rale",
+    "fmizonnum": 9,
+    "sortie": 94,
+    "fmizonmax": 342,
+    "entree": 185,
+    "etablissement_etalib": "Piscine Tissot",
+    "fmicourante": 91,
+    "datemiseajour": "2026-09-11T08:50:00+00:00"
+  },
+  "2026-09-11T11:00:00+02:00": {
+    "fmizonlib": "Zone G\u00e9n\u00e9rale",
+    "fmizonnum": 9,
+    "sortie": 124,
+    "fmizonmax": 342,
+    "entree": 208,
+    "etablissement_etalib": "Piscine Tissot",
+    "fmicourante": 84,
+    "datemiseajour": "2026-09-11T09:00:00+00:00"
+  },
+  "2026-09-11T11:10:00+02:00": {
+    "fmizonlib": "Zone G\u00e9n\u00e9rale",
+    "fmizonnum": 9,
+    "sortie": 124,
+    "fmizonmax": 342,
+    "entree": 210,
+    "etablissement_etalib": "Piscine Tissot",
+    "fmicourante": 86,
+    "datemiseajour": "2026-09-11T09:10:00+00:00"
+  },
+  "2026-09-11T11:15:00+02:00": {
+    "fmizonlib": "Zone G\u00e9n\u00e9rale",
+    "fmizonnum": 9,
+    "sortie": 124,
+    "fmizonmax": 342,
+    "entree": 216,
+    "etablissement_etalib": "Piscine Tissot",
+    "fmicourante": 92,
+    "datemiseajour": "2026-09-11T09:15:00+00:00"
+  },
+  "2026-09-11T11:45:00+02:00": {
+    "fmizonlib": "Zone G\u00e9n\u00e9rale",
+    "fmizonnum": 9,
+    "sortie": 149,
+    "fmizonmax": 342,
+    "entree": 216,
+    "etablissement_etalib": "Piscine Tissot",
+    "fmicourante": 67,
+    "datemiseajour": "2026-09-11T09:45:00+00:00"
+  },
+  "2026-09-11T11:50:00+02:00": {
+    "fmizonlib": "Zone G\u00e9n\u00e9rale",
+    "fmizonnum": 9,
+    "sortie": 161,
+    "fmizonmax": 342,
+    "entree": 216,
+    "etablissement_etalib": "Piscine Tissot",
+    "fmicourante": 55,
+    "datemiseajour": "2026-09-11T09:50:00+00:00"
+  }
+}
