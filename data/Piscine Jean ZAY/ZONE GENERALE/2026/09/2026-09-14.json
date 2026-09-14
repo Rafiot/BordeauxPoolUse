@@ -498,5 +498,15 @@
     "etablissement_etalib": "Piscine Jean ZAY",
     "fmicourante": 41,
     "datemiseajour": "2026-09-14T11:00:00+00:00"
+  },
+  "2026-09-14T13:05:00+02:00": {
+    "fmizonlib": "ZONE GENERALE",
+    "fmizonnum": 24,
+    "sortie": 102,
+    "fmizonmax": 200,
+    "entree": 138,
+    "etablissement_etalib": "Piscine Jean ZAY",
+    "fmicourante": 36,
+    "datemiseajour": "2026-09-14T11:05:00+00:00"
   }
 }
