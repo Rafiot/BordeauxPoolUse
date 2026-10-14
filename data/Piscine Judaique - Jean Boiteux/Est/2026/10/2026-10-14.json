@@ -758,5 +758,15 @@
     "etablissement_etalib": "Piscine Judaique - Jean Boiteux",
     "fmicourante": 155,
     "datemiseajour": "2026-10-14T18:25:00+00:00"
+  },
+  "2026-10-14T20:30:00+02:00": {
+    "fmizonlib": "Est",
+    "fmizonnum": 8,
+    "sortie": 233,
+    "fmizonmax": 500,
+    "entree": 377,
+    "etablissement_etalib": "Piscine Judaique - Jean Boiteux",
+    "fmicourante": 144,
+    "datemiseajour": "2026-10-14T18:30:00+00:00"
   }
 }
