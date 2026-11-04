@@ -258,5 +258,15 @@
     "etablissement_etalib": "Piscine Judaique - Jean Boiteux",
     "fmicourante": 15,
     "datemiseajour": "2026-11-04T09:15:00+00:00"
+  },
+  "2026-11-04T10:20:00+01:00": {
+    "fmizonlib": "Est",
+    "fmizonnum": 8,
+    "sortie": 74,
+    "fmizonmax": 500,
+    "entree": 87,
+    "etablissement_etalib": "Piscine Judaique - Jean Boiteux",
+    "fmicourante": 13,
+    "datemiseajour": "2026-11-04T09:20:00+00:00"
   }
 }
