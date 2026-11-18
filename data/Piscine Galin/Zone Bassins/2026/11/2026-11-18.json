@@ -658,5 +658,15 @@
     "etablissement_etalib": "Piscine Galin",
     "fmicourante": 51,
     "datemiseajour": "2026-11-18T18:50:00+00:00"
+  },
+  "2026-11-18T20:00:00+01:00": {
+    "fmizonlib": "Zone Bassins",
+    "fmizonnum": 12,
+    "sortie": 399,
+    "fmizonmax": 400,
+    "entree": 452,
+    "etablissement_etalib": "Piscine Galin",
+    "fmicourante": 53,
+    "datemiseajour": "2026-11-18T19:00:00+00:00"
   }
 }
